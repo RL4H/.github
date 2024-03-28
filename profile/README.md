@@ -6,7 +6,3 @@ Reinforcement Learning (RL) is a Machine Learning (ML) paradigm, used for decisi
 <img src="img/intro.gif" width="90%" alt="RL">
 </p>
 
-**Glucose regulation in Type 1 Diabetes (T1D)**, is a challenging task, which results in a sequential decision-making problem, where the aim is to solve a continuous control problem of determining the amount of insulin delivery to the body to maintain an optimal glucose level.
-
-- [G2P2C](https://github.com/RL4H/G2P2C): Provides a framework for designing RL algorithms for T1D.
-- [GluCoEnv](https://github.com/RL4H/GluCoEnv): Is a GPU-based simulation environment for glucose regulation in Type 1 Diabetes.
